@@ -1,0 +1,18 @@
+1- Ask the height of the pyramid
+2- If the number is less than 1 or greather than 8 ask again
+3- Iterate from 1 through height
+    1- On iteration i, print i hashes and then a newline
+
+
+variables: h(height), r(row), c(column)
+
+ask the height until it is some number to 1 from 8
+
+row = 0, while row is shorter than height, increase row
+
+column = 0, while column is shorter or equal to row, increase column
+
+show #
+break a line
+
+
